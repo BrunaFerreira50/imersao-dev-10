@@ -1,0 +1,97 @@
+[
+    {
+    "nome": "JavaScript",
+    "descricao":"O JS é a linguagem da Web.",
+    "ano": "1995",
+    "link":"https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "exemplo_codigo": "console.log('Olá, Mundo!');"
+
+},
+
+{
+    "nome": "Python",
+    "descricao":"Python é a linguagem da ciência.",
+    "ano": "1991",
+    "link":"https://docs.python.org/3/",
+    "exemplo_codigo": "print('Olá, Mundo!')"
+
+},
+{
+        "nome": "Java",
+        "descricao": "Java é uma linguagem versátil, popular para aplicações corporativas e Android.",
+        "ano": "1995",
+        "link": "https://www.oracle.com/java/",
+        "exemplo_codigo": "class HelloWorld {\n    public static void main(String[] args) {\n        System.out.println(\"Olá, Mundo!\");\n    }\n}"
+},
+{
+        "nome": "C++",
+        "descricao": "C++ é uma extensão da linguagem C, amplamente usada em jogos e sistemas de alto desempenho.",
+        "ano": "1983",
+        "link": "https://isocpp.org/",
+        "exemplo_codigo": "#include <iostream>\n\nint main() {\n    std::cout << \"Olá, Mundo!\";\n    return 0;\n}"
+},
+{
+        "nome": "C#",
+        "descricao": "C# (C Sharp) é uma linguagem moderna desenvolvida pela Microsoft para a plataforma .NET.",
+        "ano": "2000",
+        "link": "https://learn.microsoft.com/pt-br/dotnet/csharp/",
+        "exemplo_codigo": "using System;\n\nclass Program {\n    static void Main() {\n        Console.WriteLine(\"Olá, Mundo!\");\n    }\n}"
+},
+{
+        "nome": "PHP",
+        "descricao": "PHP é uma linguagem de script popular, especialmente adequada para o desenvolvimento web.",
+        "ano": "1995",
+        "link": "https://www.php.net/",
+        "exemplo_codigo": "<?php\n    echo \"Olá, Mundo!\";\n?>"
+},
+{
+        "nome": "TypeScript",
+        "descricao": "TypeScript é um superconjunto de JavaScript que adiciona tipagem estática opcional.",
+        "ano": "2012",
+        "link": "https://www.typescriptlang.org/",
+        "exemplo_codigo": "let message: string = 'Olá, Mundo!';\nconsole.log(message);"
+},
+{
+        "nome": "Go",
+        "descricao": "Go é uma linguagem de programação.",
+        "ano": "2009",
+        "link": "https://go.dev/doc/",
+        "exemplo_codigo": "package main\n\nimport \"fmt\"\n\nfunc main() {\n    fmt.Println(\"Olá, Mundo!\")\n}"
+},
+{
+        "nome": "Ruby",
+        "descricao": "Ruby é uma linguagem de programação orientada a objetos, interpretada e de propósito geral.",
+        "ano": "1993",
+        "link": "https://www.ruby-lang.org/en/documentation/",
+        "exemplo_codigo": "puts 'Olá, Mundo!'"
+},
+{
+        "nome": "Swift",
+        "descricao": "Swift é uma linguagem de programação poderosa e intuitiva criada pela Apple para desenvolvimento de apps para iOS, Mac, Apple TV e Apple Watch.",
+        "ano": "2014",
+        "link": "https://developer.apple.com/swift/",
+        "exemplo_codigo": "print(\"Olá, Mundo!\")"
+},
+{
+        "nome": "Kotlin",
+        "descricao": "Kotlin é uma linguagem de programação moderna e estaticamente tipada, desenvolvida pela JetBrains. É a linguagem preferida para desenvolvimento Android.",
+        "ano": "2011",
+        "link": "https://kotlinlang.org/",
+        "exemplo_codigo": "fun main() {\n    println(\"Olá, Mundo!\")\n}"
+},
+{
+        "nome": "Rust",
+        "descricao": "Rust é uma linguagem de programação focada em segurança, velocidade e concorrência.",
+        "ano": "2010",
+        "link": "https://www.rust-lang.org/",
+        "exemplo_codigo": "fn main() {\n    println!(\"Olá, Mundo!\");\n}"
+},
+{
+        "nome": "R",
+        "descricao": "R é uma linguagem de programação e ambiente de software livre para computação estatística e gráficos.",
+        "ano": "1993",
+        "link": "https://www.r-project.org/",
+        "exemplo_codigo": "print(\"Olá, Mundo!\")"
+}
+
+]
